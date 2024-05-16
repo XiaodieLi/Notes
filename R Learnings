@@ -1,0 +1,16 @@
+R learning notes
+
+Chapter 1
+1. Tempalte for making graphs through ggplot()
+   ggplot(data = <DATASETNAME> ) + 
+   <GEOM_FUNCTION>(mapping = aes(<x = COLUMNNAME, y = COLUMNNAME>))
+2. Advanced template for making graphs
+   ggplot(data = <DATASETNAME>) + <GEOM_FUNCTION>(mapping = <MAPPINGS>, stat = <STAT>, position = <POSITION>) + <COORDATE_FUNCTION> + <FACET_FUNCTION>
+
+Chapter 2
+1. Assignment "<-"
+2. Naming: letters+_+.
+3. Calling built-in function
+
+Chapter 3
+1. 
